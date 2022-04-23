@@ -1,0 +1,68 @@
+C:\Users\ASUS\source\repos\Registor\Registor\bin\Debug\Registor.exe.config
+C:\Users\ASUS\source\repos\Registor\Registor\bin\Debug\Registor.exe
+C:\Users\ASUS\source\repos\Registor\Registor\bin\Debug\Registor.pdb
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor_MarkupCompile.cache
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor_MarkupCompile.lref
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.g.resources
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.exe
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\Registor.pdb
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\login.g.cs
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\regin.g.cs
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\login.baml
+C:\Users\ASUS\source\repos\Registor\Registor\obj\Debug\regin.baml
+C:\Users\admin\Desktop\Registor\Registor\bin\Debug\Registor.exe.config
+C:\Users\admin\Desktop\Registor\Registor\bin\Debug\Registor.exe
+C:\Users\admin\Desktop\Registor\Registor\bin\Debug\Registor.pdb
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\login.g.cs
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\regin.g.cs
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor_MarkupCompile.cache
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor_MarkupCompile.lref
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\login.baml
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\regin.baml
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor.g.resources
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor.Properties.Resources.resources
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor.exe
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\Registor.pdb
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\WindiwAdmin.g.cs
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\WindowBuh.g.cs
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\WindiwAdmin.baml
+C:\Users\admin\Desktop\Registor\Registor\obj\Debug\WindowBuh.baml
+F:\3 курс\Курсовая\Registor\Registor\bin\Debug\Registor.exe.config
+F:\3 курс\Курсовая\Registor\Registor\bin\Debug\Registor.exe
+F:\3 курс\Курсовая\Registor\Registor\bin\Debug\Registor.pdb
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.csproj.AssemblyReference.cache
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.csproj.SuggestedBindingRedirects.cache
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\login.g.cs
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\MainWindow.g.cs
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\regin.g.cs
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\WindiwAdmin.g.cs
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\WindowBuh.g.cs
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\App.g.cs
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor_MarkupCompile.cache
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor_MarkupCompile.lref
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\login.baml
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\MainWindow.baml
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\regin.baml
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\WindiwAdmin.baml
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\WindowBuh.baml
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.g.resources
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.Properties.Resources.resources
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.csproj.GenerateResource.cache
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.csproj.CoreCompileInputs.cache
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.exe
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\Registor.pdb
+F:\3 курс\Курсовая\Registor\Registor\obj\Debug\WindowMenu.g.cs
